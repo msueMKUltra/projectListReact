@@ -2,7 +2,7 @@
   "name": "project-list-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://msueMKUltra.github.io/reactProjectList/",
+  "homepage": "https://msueMKUltra.github.io/projectListReact/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.0",
